@@ -26,7 +26,7 @@
     "sharp": "^0.35.3"
   },
   "devDependencies": {
-    "@astrojs/check": "^0.9.9",
+    "@astrojs/check": "^0.9.10",
     "pagefind": "^1.5.2",
     "prettier": "^3.9.4",
     "prettier-plugin-astro": "^0.14.1",
